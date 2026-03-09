@@ -214,4 +214,3 @@ Todas as respostas retornam mensagens claras em JSON.
 Euclides Neto
 Estudante de Análise e Desenvolvimento de Sistemas
 
-```
