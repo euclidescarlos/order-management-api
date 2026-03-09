@@ -22,7 +22,7 @@ O objetivo desta API é demonstrar a implementação de um serviço backend simp
 Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/order-management-api.git
+git clone https://github.com/euclidescarlos/order-management-api.git
 ````
 
 Entre na pasta do projeto:
